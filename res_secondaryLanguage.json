@@ -49,8 +49,8 @@
       "startDate": "सितंबर २०२१",
       "description": "Falspot एक एंड्रॉइड एप्लिकेशन है जो उपयोगकर्ताओं को उनकी टाइमलाइन से और उनकी Ola या Uber कैब राइड से अपने पसंदीदा स्थान स्पॉट पिन करने देता है। Falspot एक ऐप है जो Flutter में बनाई गई है और जो Google Maps या किसी भी मैप्स प्रोवाइडर से सबसे अधिक दौर जाने वाले स्थानों को खोजने और ढूंढने से आपकी मुसीबत को कम करता है। Datastax Hackathon • फेवरेट स्थानों को स्पॉट करने के लिए फ्लटर ऐप बनाया गया • कुमार मंगलम और हरे कृष्ण राय के साथ टीम प्रोजेक्ट • टेक स्टैक यूज़्ड: Flutter, Dart, एस्ट्रा डीबी डेटाबेस बैकएंड के रूप में • दुनिया भर में शीर्ष 30 गुणवत्ता वाले प्रोजेक्टों में से एक बना।",
       "images": [
-        "images/portfolio/adventure/p1.jpg",
-        "images/portfolio/adventure/p2.jpg"
+        "images/portfolio/hackathon/p1.png",
+        "images/portfolio/hackathon/p2.png"
       ],
       "url": "https://github.com/harekrishnarai/falspot",
       "technologies": [
