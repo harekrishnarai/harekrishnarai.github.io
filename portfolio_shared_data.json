@@ -1,0 +1,86 @@
+{
+  "basic_info": {
+    "name": "Hare Krishna Rai",
+    "titles": [
+      "Product Security Engineer",
+      "Secure Code Review Engineer",
+      "Pentester",
+      "Application Security Engineer",
+      "Bug Bounty Hunter"
+    ],
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/harekrishnarai",
+        "class": "fab fa-github"
+      },
+      {
+        "name": "twitter",
+        "url": "https://www.twitter.com/harekrishna_rai",
+        "class": "fab fa-twitter"
+      }
+    ],
+    "image": "myProfile1.jpg"
+  },
+  "skills": {
+    "icons": [
+      {
+        "name": "Checkmarx CxSAST",
+        "class": "",
+        "level": "100"
+      },
+      {
+        "name": "Secure Code Review",
+        "class": "devicon-java-plain",
+        "level": "80"
+      },
+      {
+        "name": "Linux",
+        "class": "devicon-linux-plain",
+        "level": "80"
+      },
+      {
+        "name": "Python",
+        "class": "devicon-python-plain",
+        "level": "80"
+      },
+      {
+        "name": "SAST",
+        "class": "devicon-javascript-plain",
+        "level": "80"
+      },
+      {
+        "name": "Database Security",
+        "class": "devicon-mysql-plain",
+        "level": "80"
+      },
+      {
+        "name": "Automation",
+        "class": "devicon-jenkins-plain",
+        "level": "80"
+      },
+      {
+        "name": "Azure Cloud",
+        "class": "devicon-azure-plain",
+        "level": "80"
+      },
+      {
+        "name": "Container Security",
+        "class": "devicon-docker-plain",
+        "level": "80"
+      },
+      {
+        "name": "Github",
+        "class": "devicon-github-original-wordmark",
+        "level": "80"
+      },
+      {
+        "name": "AWS Cloud",
+        "class": "devicon-amazonwebservices-plain-wordmark",
+        "level": "80"
+      }
+      
+
+    ]
+  }
+}
