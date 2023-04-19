@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Hare Krishna Rai. I am a passionate Product Security Intern with a strong background in electronics and communication engineering. With expertise in penetration testing, code review, and cloud security, I collaborate with developers to identify and fix vulnerabilities using Burpsuite, Checkmarx and other automation tools like Jenkins in the pipeline. In my free time, I enjoy listening to music, watching sci-fi movies, and reading books for personal growth. I'm constantly seeking new challenges and opportunities to grow in my career in cybersecurity. Thank you 💜",
+      "description_header": "Hi👋",
+      "description": "I'm Hare Krishna Rai. I am a passionate Security Guy with a strong background in electronics and communication engineering. With expertise in penetration testing, code review, and cloud security, I collaborate with developers to identify and fix vulnerabilities using Burpsuite, Checkmarx and other automation tools like Jenkins in the pipeline. In my free time, I enjoy listening to music, watching sci-fi movies, and reading books for personal growth. I'm constantly seeking new challenges and opportunities to grow in my career in cybersecurity. Thank you 💜",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -107,7 +107,10 @@
         "Dark web",
         "Crypto Currencies",
         "Digital Footprints",
-        "Privacy Protection"
+        "Privacy Protection",
+        "Wireshark",
+        "BurpSuite",
+        "OWASP ZAP"
         ]
       },
       {
