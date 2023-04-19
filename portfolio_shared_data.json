@@ -2,10 +2,10 @@
   "basic_info": {
     "name": "Hare Krishna Rai",
     "titles": [
-      "Product Security Engineer",
-      "Secure Code Review Engineer",
+      "Product Security",
+      "Secure Code Review",
       "Pentester",
-      "Application Security Engineer",
+      "Application Security",
       "Bug Bounty Hunter"
     ],
     "social": [
@@ -25,7 +25,17 @@
   "skills": {
     "icons": [
       {
-        "name": "Checkmarx CxSAST",
+        "name": "Burpsuite",
+        "class": "",
+        "level": "100"
+      },
+      {
+        "name": "Wireshark",
+        "class": "",
+        "level": "100"
+      },
+      {
+        "name": "Checkmarx",
         "class": "",
         "level": "100"
       },
