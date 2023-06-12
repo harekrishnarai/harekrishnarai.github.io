@@ -76,6 +76,28 @@
     "experience": [
       {
         "company": "HighRadius",
+        "title": "Associate Product Security Engineer - I",
+        "years": "06.2023 - present",
+        "mainTech": [
+          "Secure Code Review",
+          "Penetration testing",
+          "Container Security"
+        ],
+        "technologies": [
+          "CxSAST",
+          "JAVA",
+          "Penetration testing",
+          "OWASP Top 10",
+          "Jenkins",
+          "Secure Code Review",
+          "Team Collaboration",
+          "BurpSuite",
+          "JFrog Xray",
+          "Checkmarx"
+        ]
+      },
+      {
+        "company": "HighRadius",
         "title": "Product Security Intern",
         "years": "09.2022 - present",
         "mainTech": [
